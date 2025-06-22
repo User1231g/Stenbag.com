@@ -1,2 +1,2 @@
-# Stenbag.com
+# Stenbag
 site
